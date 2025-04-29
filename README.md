@@ -1,5 +1,3 @@
-Claro! Aqui está um exemplo de README para o seu projeto:
-
 ---
 
 # Análise Estatística: Salário de Profissionais de Dados
